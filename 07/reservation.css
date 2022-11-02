@@ -1,0 +1,12 @@
+ul {
+  list-style:none;
+}
+
+li {
+  line-height:50px;
+}
+
+label {
+  width:60px;
+  float:left;
+}
