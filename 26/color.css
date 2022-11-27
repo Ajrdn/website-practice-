@@ -1,0 +1,16 @@
+.container {
+  width:500px;
+  padding:10px;
+  border:1px solid #ccc;
+  background-color:black;
+  color:white;
+}
+
+h1 {
+  font-size:17px;
+}
+
+p {
+  font-size:16px;
+  line-height:25px;
+}
