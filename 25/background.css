@@ -1,0 +1,15 @@
+h1 {
+  margin-top:50px;
+  font-size:20px;
+}
+
+p {
+  font-size:16px;
+  line-height:25px;
+}
+
+body {
+  color:white;
+  background:url('images/wallpaper.jpg') repeat-x left bottom fixed;
+  background-color:gray;
+}
