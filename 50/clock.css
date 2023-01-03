@@ -1,0 +1,10 @@
+#container {
+  width:200px;
+  margin:50px auto;
+}
+
+button {
+  border:1px solid #ccc;
+  background:#fff;
+  padding:20px 30px;
+}
